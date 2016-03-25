@@ -167,6 +167,17 @@ img.samples {
 	font-size: 112%;
 }
 
+.school {
+	margin-top: 20px;
+	height: 58px;
+	width: 58px;
+	float: left;
+}
+
+.univ {
+	margin-left: 75px;
+}
+
 #edu {
 	font-family: 'Arvo', serif;
 	margin-bottom: 30px;
