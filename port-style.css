@@ -1,0 +1,174 @@
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+
+body {
+	background-color: #bce6ad;
+}
+
+#bannerOuter {
+	margin: 0px;
+	height: 535px;
+	background-image: url('images/cactus-back.jpg');
+	background-size: auto 401px;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+img#profilePic {
+	margin-top: 280px;
+	border: 8px solid #bce6ad;
+}
+
+#nameCity {
+	text-align: center;
+}
+
+#fullname {
+	font-family: 'Arvo', serif;
+	margin: 8px auto 24px;
+}
+
+#city, #role {
+	margin: 8px auto 8px;
+}
+
+#icons {
+  margin: 50px auto 40px;
+  padding: 0;
+  font-size: 0;
+  text-align: center;
+}
+
+#icons li {
+  display: inline-block;
+  }
+  
+#icons li a {
+  display: block;
+  position: relative;
+  margin: 0 24px;
+	background-color: #999;
+	color: white;
+  width: 58px;
+  height: 58px;
+  font-size: 32px;
+	line-height: 56px;
+	border-radius: 29px;
+  text-align: center;
+  text-decoration: none;
+	transition: background-color 1s;
+}
+
+#icons li a.mail:hover {
+	background-color: #bd2c00;
+}
+
+#icons li a.linkedin:hover {
+	background-color: #0077B5;
+}
+
+#icons li a.github:hover {
+	background-color: #6e5494;
+}
+
+#icons li a.codepen:hover {
+	background-color: #444;
+}
+
+#skillset {
+	font-family: 'Arvo', serif;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+#skills {
+	background-color: #fbf399;
+	margin: 10px 0px 0px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	width: 100%;
+}
+
+.skills-list li {
+	list-style-type: circle;
+	margin-bottom: 8px;
+	font-size: 125%;
+}
+
+#mysites {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#sd-screenshot {
+	text-align: center;
+}
+
+#sd-screenshot img {
+	max-width: 340px;
+	border: none;
+}
+
+#sd-info {
+	text-align: left;
+}
+
+#sd-head {
+	font-family: 'Arvo', serif;
+	margin-bottom: 1em;
+}
+
+#sd-head a, #sd-head a:hover {
+	text-decoration: none;
+	color: #006699;
+	margin-bottom: 1em;
+}
+
+#projects {
+	background-color: #595959;
+	margin: 0px 0px 20px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	width: 100%;
+}
+
+#projhead {
+	font-family: 'Arvo', serif;
+	text-align: center;
+	color: #eeeeee;
+}
+
+#projtext {
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: 125%;
+	color: #eeeeee;
+}
+
+img.samples {
+	border-radius: 20px;
+	margin: 10px auto 25px;
+}
+
+.panel {
+	border: none;
+}
+.panel-heading {
+  font-size: 135%;
+  text-align: center;
+  background-color: #68af4d;
+  color: white;
+}
+
+#education {
+	padding-bottom: 100px;
+}
+
+#education p {
+	font-size: 112%;
+}
+
+#edu {
+	font-family: 'Arvo', serif;
+	margin-bottom: 30px;
+	text-align: center;
+}
