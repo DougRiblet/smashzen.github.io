@@ -123,7 +123,7 @@ img#profilePic {
 	margin-bottom: 1em;
 }
 
-#projects {
+#projects, #mks {
 	background-color: #595959;
 	margin: 0px 0px 20px;
 	padding-top: 20px;
@@ -131,13 +131,13 @@ img#profilePic {
 	width: 100%;
 }
 
-#projhead {
+#projhead, #mkshead {
 	font-family: 'Arvo', serif;
 	text-align: center;
 	color: #eeeeee;
 }
 
-#projtext {
+#projtext, #mkstext {
 	margin-bottom: 30px;
 	text-align: center;
 	font-size: 125%;
