@@ -125,7 +125,7 @@ img#profilePic {
 
 #projects, #mks {
 	background-color: #595959;
-	margin: 0px 0px 20px;
+	margin: 0;
 	padding-top: 20px;
 	padding-bottom: 40px;
 	width: 100%;
@@ -144,6 +144,24 @@ img#profilePic {
 	color: #eeeeee;
 }
 
+#micro {
+	margin: 0px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	width: 100%;
+}
+
+#microhead {
+	font-family: 'Arvo', serif;
+	text-align: center;
+}
+
+#microtext {
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: 125%;
+}
+
 img.samples {
 	border-radius: 20px;
 	margin: 10px auto 25px;
@@ -157,6 +175,10 @@ img.samples {
   text-align: center;
   background-color: #68af4d;
   color: white;
+}
+
+#micro .panel-heading{
+  background-color: #425F87;
 }
 
 #education {
