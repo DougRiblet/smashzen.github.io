@@ -144,14 +144,14 @@ img#profilePic {
 	color: #eeeeee;
 }
 
-#micro {
+#micro, #soloreact {
 	margin: 0px;
 	padding-top: 20px;
 	padding-bottom: 40px;
 	width: 100%;
 }
 
-#microhead {
+#microhead, #soloreacthead {
 	font-family: 'Arvo', serif;
 	text-align: center;
 }
