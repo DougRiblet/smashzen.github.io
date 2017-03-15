@@ -157,7 +157,7 @@ img#profilePic {
 	text-align: center;
 }
 
-#microtext {
+#microtext, #soloreacttext {
 	margin-bottom: 30px;
 	text-align: center;
 	font-size: 125%;
